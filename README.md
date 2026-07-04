@@ -8,7 +8,7 @@ An AI-powered Resume Analyzer built using **Python** and **Streamlit**. The appl
 
 👉 https://ai-resume-analyzer-gerfent5ccmlwoztzhe7nr.streamlit.app/
 
----
+
 
 ## 📌 Features
 
